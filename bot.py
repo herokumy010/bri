@@ -40,7 +40,7 @@ def  binn(bin,c,re):
 零 𝘾𝙤𝙪𝙣𝙩𝙧𝙮 -» <code>{country_name} {country_flag} {country_currencies}</code>
 
 ᥫ᭡ 𝙗𝙤𝙩 @M77SALAH"""
-token = input('enter token bot: ')
+token = '7161511800:AAG8qP9cybURl6XdM8Kp2fylgQlsyBw7oF0'
 
 
 
